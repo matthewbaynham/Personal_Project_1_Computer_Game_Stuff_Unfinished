@@ -1,4 +1,4 @@
-# Personal Project - Writing my own computer game
+# Personal Project - Writing my own computer game - *(Unfinished)*
 *(FPS game)*
 
 May 2009 – Nov 2009
